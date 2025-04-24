@@ -17,7 +17,7 @@ export default function Home() {
           <li>
             Alison <code>Koerich</code>.
           </li>
-          <li>Koerich Alisson</li>
+          <li>Koerich</li>
         </ol>
 
         <div className={styles.ctas}>
